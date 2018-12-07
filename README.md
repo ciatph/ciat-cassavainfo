@@ -1,4 +1,4 @@
-## ciat-cassavaposter
+## ciat-cassavainfo
 
 *Draft* poster/infographic for the methods, output and results of the cassava data collection project.
 
